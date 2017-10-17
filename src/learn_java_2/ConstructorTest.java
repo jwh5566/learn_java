@@ -20,6 +20,7 @@ public class ConstructorTest {
 	}
 }
 
+
 class Employee{
 	private static int nextId;
 	private int id;
